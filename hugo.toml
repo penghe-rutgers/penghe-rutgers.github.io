@@ -2,4 +2,4 @@ baseURL = "https://penghe-rutgers.github.io/"
 languageCode = "zh-cn"
 title = "peng的观察"
 theme = "ananke"
-
+disablePathToLower = false
